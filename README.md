@@ -23,11 +23,15 @@ Analyze store sales data to identify trends, top-performing products, and revenu
 - Identified top-selling products and peak sales months.
 - Found that electronic items contributed 40% to total revenue.
 - Suggested optimized inventory management for underperforming products.
+- **Forecasting:**  
+    - Utilized Power BI’s built-in forecasting feature to predict future sales trends based on historical data.
+    - Applied time series forecasting techniques (e.g., Exponential Smoothing) to estimate sales for the upcoming months.
+    - Visualized the forecast data alongside actual sales to identify potential gaps and adjust strategies accordingly.
 
-**Tools Used:** Power BI (DAX, Power Query), Excel
+**Tools Used:** Power BI (DAX, Power Query, Forecasting), Excel
 
 **GitHub Link:**  
-[View Project](#)
+[View Project](https://github.com/Khoula19/Data-Analysis-Projects/tree/main/Sales%20Performance%20%26%20Forecasting)
 
 ---
 
@@ -54,7 +58,7 @@ Create an Excel dashboard to track store performance, revenue, and customer beha
 **Tools Used:** Excel (Power Query, Pivot Tables, Charts)
 
 **GitHub Link:**  
-[View Project](#)
+[View Project](https://github.com/Khoula19/Data-Analysis-Projects/tree/main/Vrinda%20Store)
 
 ---
 
@@ -80,4 +84,4 @@ Extract and analyze Olympic Games data to find insights on medal distribution, c
 **Tools Used:** SQL (Data Extraction, Queries), Power BI (Dashboard, Visualization)
 
 **GitHub Link:**  
-[View Project](#)
+[View Project](https://github.com/Khoula19/Data-Analysis-Projects/tree/main/Olympic%20Summer%20Data%20Analysis)
